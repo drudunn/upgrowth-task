@@ -2,7 +2,7 @@
 
 Image search box using the Unsplash API
 
-- [ ] create a micro app that allows a user to search for a tag and show the matching photos
+- [x] create a micro app that allows a user to search for a tag and show the matching photos
 
 ## Built with
 
